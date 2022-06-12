@@ -30,13 +30,16 @@
   color: black;
   text-align: left;
   padding-bottom: 20px;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 .brief_description {
   text-align: left;
+  font-size: 40px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .profile_image {
-  width: 500px;
-  height: auto;
+  width: 300px;
+  height:350px;
 }
